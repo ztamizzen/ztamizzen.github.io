@@ -1,0 +1,1 @@
+export const ztamizzen = "Mats Lindblad <mats.lindblad@gmail.com>"
