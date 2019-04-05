@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MPL-2.0"
+  "author": "Mats Lindblad <mats.lindblad@gmail.com>",
+  "license": "MPL-2.0",
+  "private": false
 }
